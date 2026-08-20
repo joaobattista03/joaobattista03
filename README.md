@@ -2,7 +2,7 @@
 
 # Olá, eu sou o João Batista 👋
 
-Desenvolvedor focado em **Python, sistemas embarcados (ESP32/Arduino) e automação**, com projetos que vão de aplicações desktop de gestão a integrações de hardware via CAN bus e Wi-Fi.
+Python developer building automation, IoT and business systems.
 
 </div>
 
