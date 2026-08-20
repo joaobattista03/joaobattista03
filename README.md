@@ -13,7 +13,7 @@ Desenvolvedor focado em **Python, sistemas embarcados (ESP32/Arduino) e automaç
 - 🔭 Construindo sistemas de gestão (oficina, frota) e integrações IoT com ESP32
 - 🌱 Estudando Programação Orientada a Objetos, redes automotivas (CAN bus) e segurança
 - 💬 Fale comigo sobre Python, hardware embarcado ou automação
-- 📫 Contato: [LinkedIn](#) · [joaoclaudiobatista86@gmail.com](#)
+- 📫 Contato: · [joaoclaudiobatista86@gmail.com](#)
 
 <!-- Troque os links acima pelo seu LinkedIn e e-mail de contato -->
 
