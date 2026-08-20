@@ -10,9 +10,10 @@ Python developer building automation, IoT and business systems.
 
 ### 🚀 Sobre mim
 
-- 🔭 Construindo sistemas de gestão (oficina, frota) e integrações IoT com ESP32
-- 🌱 Estudando Programação Orientada a Objetos, redes automotivas (CAN bus) e segurança
-- 💬 Fale comigo sobre Python, hardware embarcado ou automação
+- 🔧 Venho da área de mecânica e administração, e hoje aplico essa vivência prática na automação de serviços e sistemas de gestão
+- 🔭 Construindo sistemas de gestão (oficina, frota) e automações que economizam tempo de trabalho manual
+- 🌱 Autodidata: estudando continuamente segurança da informação, redes e automação
+- 💬 Fale comigo sobre Python, automação, redes ou sistemas embarcados
 - 📫 Contato: [joaoclaudiobatista86@gmail.com](mailto:joaoclaudiobatista86@gmail.com)
 
 ### 🛠️ Tecnologias
