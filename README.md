@@ -29,6 +29,8 @@ Desenvolvedor focado em **Python, sistemas embarcados (ESP32/Arduino) e automaç
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### 📌 Projetos em destaque
