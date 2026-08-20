@@ -13,9 +13,7 @@ Desenvolvedor focado em **Python, sistemas embarcados (ESP32/Arduino) e automaç
 - 🔭 Construindo sistemas de gestão (oficina, frota) e integrações IoT com ESP32
 - 🌱 Estudando Programação Orientada a Objetos, redes automotivas (CAN bus) e segurança
 - 💬 Fale comigo sobre Python, hardware embarcado ou automação
-- 📫 Contato: · [joaoclaudiobatista86@gmail.com](#)
-
-<!-- Troque os links acima pelo seu LinkedIn e e-mail de contato -->
+- 📫 Contato: [joaoclaudiobatista86@gmail.com](mailto:joaoclaudiobatista86@gmail.com)
 
 ### 🛠️ Tecnologias
 
@@ -37,6 +35,7 @@ Desenvolvedor focado em **Python, sistemas embarcados (ESP32/Arduino) e automaç
 
 | Projeto | Descrição |
 |---|---|
+| [🛍️ Shopee Telegram/WhatsApp Bot](https://github.com/joaobattista03/shopee-telegram-whatsapp-bot) | Bot que coleta ofertas da Shopee Affiliate API e posta automaticamente no Telegram e WhatsApp, sem duplicar produtos |
 | [🏭 Sistema Gestão Oficina](https://github.com/joaobattista03/sistema-gestao-oficina) | Sistema desktop completo de gestão para oficina mecânica (clientes, financeiro, estoque, serviços) |
 | [🚚 Checklist Frota](https://github.com/joaobattista03/checklist-frota) | Checklist e controle de pneus/conjuntos de uma frota de veículos |
 | [🚗 Rede CAN MCP2515 + ESP32](https://github.com/joaobattista03/rede-can-mcp2515-esp32) | Monitoramento veicular via barramento CAN com ESP32 |
