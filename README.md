@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o João Batista 👋
+# João Batista 👋
 
 Python developer building automation, IoT and business systems.
 
